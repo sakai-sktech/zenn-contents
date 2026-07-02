@@ -1,7 +1,7 @@
 {
   "name": "zenn",
   "version": "1.0.0",
-  "description": "",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.98"
-  }
+    "zenn-cli": "^0.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakai-sktech/zenn-contents.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sakai-sktech/zenn-contents/issues"
+  },
+  "homepage": "https://github.com/sakai-sktech/zenn-contents#readme"
 }
