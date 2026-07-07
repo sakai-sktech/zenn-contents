@@ -1,2 +1,19 @@
-node_modules
+# ホワイトリスト方式: Zenn の公開に必要なものだけを track する
+/*
+
+# Zenn 連携が読むコンテンツ
+!/articles
+!/books
+!/images
+
+# リポジトリ運用に必要なもの
+!/.gitignore
+!/.github
+!/README.md
+
+# Zenn CLI (npx zenn preview 等) に必要なもの
+!/package.json
+!/package-lock.json
+
+# ホワイトリスト内でも除外するゴミ
 .DS_Store
