@@ -3,7 +3,7 @@ title: "Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作ら
 emoji: "🐚"
 type: "tech"
 topics: ["claudecode", "ollama", "llm", "powershell", "生成ai"]
-published: false
+published: true
 ---
 
 ## 完成物より、「仕事の進め方」そのものに驚いた話
